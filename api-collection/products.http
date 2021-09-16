@@ -1,0 +1,59 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=products
+
+# Products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts 
+GET {{baseUrl}}/{{resourceName}}?color=tan&price_gte=500
+
+###
+
+# @name filterProducts 
+GET {{baseUrl}}/{{resourceName}}?name_like=rustic
+
+###
+
+# @name pagination 
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=20
+
+###
+
+# @name sort 
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+    "name": "Small Cotton Ball",
+    "color": "tan",
+    "price": 795,
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/9J2o3f7
+Content-Type: application/json
+
+{
+    "name": "Small Cotton Ball update",
+    "color": "red",
+    "price": 800
+}
+
+###
+
+# @name remove
+DELETE http://localhost:3000/api/{{resourceName}}/2

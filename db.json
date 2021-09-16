@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "name": "Sports",
+      "createdAt": 1631767489921,
+      "updatedAt": 1631767489921
+    },
+    {
+      "id": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "name": "Beauty",
+      "createdAt": 1631767489923,
+      "updatedAt": 1631767489923
+    },
+    {
+      "id": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "name": "Automotive",
+      "createdAt": 1631767489925,
+      "updatedAt": 1631767489925
+    },
+    {
+      "id": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "name": "Sports",
+      "createdAt": 1631767489927,
+      "updatedAt": 1631767489927
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "id": "8c06492b-aa27-40d2-b9fe-05d20732ad37",
+      "name": "Small Cotton Ball",
+      "color": "tan",
+      "price": 797,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1631767489932,
+      "updatedAt": 1631767489932,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "id": "7f266872-7552-4a44-b139-8c775f6996a9",
+      "name": "Generic Plastic Table",
+      "color": "tan",
+      "price": 338,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1631767489934,
+      "updatedAt": 1631767489934,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "id": "b5e6be94-486e-4a02-91dc-ed36b2c8ef62",
+      "name": "Small Fresh Tuna",
+      "color": "lime",
+      "price": 411,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1631767489936,
+      "updatedAt": 1631767489936,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "id": "8014973a-238d-436a-baea-89d0d3042672",
+      "name": "Gorgeous Metal Chair",
+      "color": "grey",
+      "price": 878,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1631767489938,
+      "updatedAt": 1631767489938,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "id": "8384338e-1828-42ad-bd1f-08f7c481e03d",
+      "name": "Rustic Granite Fish",
+      "color": "olive",
+      "price": 986,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1631767489940,
+      "updatedAt": 1631767489940,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "id": "fabe762c-d868-4fbd-8305-119484a56a28",
+      "name": "Handcrafted Frozen Bike",
+      "color": "gold",
+      "price": 96,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1631767489944,
+      "updatedAt": 1631767489944,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "id": "0787c08f-b7ed-408a-80c5-e48c5b50b7a9",
+      "name": "Handmade Rubber Bacon",
+      "color": "lavender",
+      "price": 249,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1631767489948,
+      "updatedAt": 1631767489948,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "id": "1ab0a4e9-7437-44ab-8cc2-ef55c66ca177",
+      "name": "Intelligent Metal Fish",
+      "color": "green",
+      "price": 107,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1631767489951,
+      "updatedAt": 1631767489951,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "id": "abfb9ce6-e0f3-44c4-85bd-8bbb0c142c67",
+      "name": "Rustic Wooden Tuna",
+      "color": "ivory",
+      "price": 849,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1631767489954,
+      "updatedAt": 1631767489954,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c3337c9a-20bd-4efe-8401-c3ef3dbf57ae",
+      "id": "3883b812-dcb0-4006-a987-cc9d3f371989",
+      "name": "Ergonomic Granite Salad",
+      "color": "maroon",
+      "price": 258,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1631767489959,
+      "updatedAt": 1631767489959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "id": "816ae162-58b7-47bf-8513-97713aea89c3",
+      "name": "Handcrafted Concrete Ball",
+      "color": "fuchsia",
+      "price": 372,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1631767489962,
+      "updatedAt": 1631767489962,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "id": "fac7e64e-b4af-48fa-86e6-e3c5c27af262",
+      "name": "Incredible Rubber Car",
+      "color": "yellow",
+      "price": 858,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1631767489963,
+      "updatedAt": 1631767489963,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "id": "c78a5ba1-2df2-49a8-a583-7e236781a631",
+      "name": "Awesome Frozen Bike",
+      "color": "gold",
+      "price": 669,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1631767489965,
+      "updatedAt": 1631767489965,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "id": "bdb2614d-ea8d-4b76-aba5-4a5d76cd2a8c",
+      "name": "Incredible Metal Mouse",
+      "color": "violet",
+      "price": 222,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1631767489968,
+      "updatedAt": 1631767489968,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "7a379150-8d74-46be-a0ab-33e728197a5a",
+      "id": "42e5bdc2-a22f-4d41-93c7-db2303a58e99",
+      "name": "Practical Steel Chicken",
+      "color": "yellow",
+      "price": 954,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1631767489970,
+      "updatedAt": 1631767489970,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "id": "a2176875-1a6d-49cd-8cbf-cfcf49e160e8",
+      "name": "Generic Metal Pizza",
+      "color": "lavender",
+      "price": 398,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1631767489972,
+      "updatedAt": 1631767489972,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "id": "7a578cf4-adc5-4b3d-a8d2-ff1ca4de0048",
+      "name": "Tasty Concrete Keyboard",
+      "color": "ivory",
+      "price": 818,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1631767489974,
+      "updatedAt": 1631767489974,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "id": "22ec5457-d488-46a1-9fb7-204b6439e6b3",
+      "name": "Generic Plastic Computer",
+      "color": "lavender",
+      "price": 808,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1631767489978,
+      "updatedAt": 1631767489978,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "id": "3f381bd6-c37a-4235-b91e-ce26c009a4bc",
+      "name": "Tasty Granite Table",
+      "color": "orchid",
+      "price": 953,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1631767489983,
+      "updatedAt": 1631767489983,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ffef8915-7a49-4597-af89-1cc38562373c",
+      "id": "6da1dba5-b2e2-43e2-86bd-6b8780905a6b",
+      "name": "Intelligent Steel Pizza",
+      "color": "tan",
+      "price": 715,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1631767489986,
+      "updatedAt": 1631767489986,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e60c4564-eef0-4d70-a1e4-8704c58b8e1b",
+      "name": "Small Cotton Ball update",
+      "color": "red",
+      "price": 800,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1631773403799,
+      "updateAt": 1631773490783,
+      "id": "9J2o3f7"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
